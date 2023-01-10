@@ -1,0 +1,14 @@
+kivy
+kivymd
+matplotlib
+praw
+urllib
+urllib.request
+_collections
+xmltodict
+datetime
+wordcloud
+re
+numpy 
+math
+scipy.sparse 
